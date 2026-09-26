@@ -29,6 +29,7 @@ kramdown:
 exclude:
   - README.md
   - EDITORIAL_GUIDE.md
+  - watchlist.md
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock

@@ -37,6 +37,7 @@ Body:
   - `### Tariffs & Trade`: tariff actions, trade negotiations, court rulings, effects on prices and supply chains. 1–2 paragraphs.
   - `### Commodities`: oil (WTI/Brent), natural gas, gold, copper, agriculture (wheat and cattle matter to Montana). 1–2 paragraphs.
   - A compact **scoreboard table**: instrument | level | weekly change.
+  - `### Watchlist`: only if `watchlist.md` lists tickers. First a table (ticker | company | close | weekly % change), then 2–3 sentences per ticker: the week's news and catalysts (earnings, guidance, analyst actions, deals, lawsuits, sector moves), why it moved, and what's coming next (e.g., an earnings date). Factual only; never buy/sell opinions.
 - `## Key Economies`
   - `### Japan`, `### United Kingdom`, `### China`: central bank, currency, growth, and politics, each with a market angle. One paragraph each.
 - `## Politics & Geopolitics`
@@ -67,10 +68,15 @@ summary: "One sentence: the day's headline."
 
 Body: skim format, 1–3 bullets per section and only what actually moved. Skip a section entirely if nothing notable happened.
 - `## Markets` (bonds, stocks, housing, tariffs, commodities, merged into one list)
+- `## Watchlist`: only if `watchlist.md` lists tickers. One bullet per ticker with **material** news or a notable move (roughly ±3% or more) since the last brief: `**TICKER** +x.x%: what happened ([source](url))`. Then one line listing the quiet tickers ("No major news: AAPL, KO"). Factual only; never buy/sell opinions.
 - `## World` (Japan / UK / China and other economies)
 - `## Politics & Geopolitics`
 - `## Montana & Bozeman`
 - `## One Question`: one thought-provoking question.
+
+## Watchlist
+
+`watchlist.md` holds the reader's tickers, one per line (`- NVDA`, with an optional note in parentheses). Read it on every run. Ignore blank, placeholder, or malformed lines; if a symbol isn't a real ticker, skip it and mention "unrecognized ticker: XYZ" at the end of the Watchlist section. Research each ticker's news and price move for the edition's time window. Never edit `watchlist.md`.
 
 ## Files and publishing
 
