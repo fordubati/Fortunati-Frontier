@@ -8,4 +8,4 @@ Changes are picked up by the next Daily Brief or Weekly Edition. No other setup 
 - INOD (Innodata)
 - BB (BlackBerry)
 - JPM (JPMorgan Chase)
-- GBC
+- GBCI (Glacier Bancorp)
