@@ -1,11 +1,22 @@
+{% assign fe = site.frontier_email %}
 <section class="subscribe" id="subscribe">
   <div class="wrap">
     <h2>Get it in your inbox</h2>
-    <p>Choose the <strong>Daily + Weekly</strong> edition (Mon–Sat briefs plus the Sunday weekly) or <strong>Weekly only</strong> (Sundays, 7 AM Mountain).</p>
-    {% comment %}
-      SUBSCRIBE_FORM_PLACEHOLDER: replaced with the email service's embed form once the service is chosen.
-      Subscriber emails are stored by the email service, never in this public repository.
-    {% endcomment %}
-    <p class="subscribe-soon">Email sign-up opens soon. Until then, follow along here or use the <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>.</p>
+    <p>Free, every morning by 7 AM Mountain. Pick one:</p>
+    <div class="subscribe-options">
+      <a class="sub-btn" href="mailto:{{ fe }}?subject=Subscribe%20Daily&body=Please%20subscribe%20me%20to%20the%20Daily%20Brief%20(Mon-Sat)%20and%20the%20Weekly%20Edition%20(Sun).">
+        <strong>Daily + Weekly</strong>
+        <span>Mon–Sat briefs plus the Sunday edition</span>
+      </a>
+      <a class="sub-btn sub-btn-alt" href="mailto:{{ fe }}?subject=Subscribe%20Weekly&body=Please%20subscribe%20me%20to%20the%20Weekly%20Edition%20(Sundays).">
+        <strong>Weekly only</strong>
+        <span>The full Sunday edition</span>
+      </a>
+    </div>
+    <p class="subscribe-note">
+      Each button opens an email to <strong>{{ fe }}</strong>. Just hit send, and you'll get a confirmation with the next edition.
+      No mail app? Email that address with the subject <em>Subscribe Daily</em> or <em>Subscribe Weekly</em>.
+      Unsubscribe anytime by emailing the subject <em>Unsubscribe</em>. Your address is kept private and never shared.
+    </p>
   </div>
 </section>
