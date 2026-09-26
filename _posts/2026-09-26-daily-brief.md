@@ -15,6 +15,12 @@ Yields ripped higher this week on hawkish Fed talk and an oil market still prici
 - **Housing**: Freddie Mac's weekly 30-year fixed average hit 7.03%, but daily trackers showed rates pushing as high as 7.2%–7.5% by Friday, up from 6.30% a year ago, as the housing market keeps losing buyers ([Freddie Mac](https://www.freddiemac.com/pmms); [Fortune](https://fortune.com/article/current-mortgage-rates-09-25-2026/)). *Why it matters:* higher-for-longer yields are the transmission line from the Fed and oil-driven inflation fears into every mortgage payment.
 - **Commodities**: Oil eased late in the week — WTI down 4.1% to $91.38, Brent to $97.45 — on signs of progress toward a U.S.-Iran deal on tanker access through the Gulf, while gold fell 2.1% on the week to $4,286.74 on rate-hike expectations and copper held near $6.70/lb, up 42% year-over-year ([ShareTrader](https://sharetrader.com.au/news/2026-09-26-copper-price-rises-as-gold-lithium-and-brent-crude-retreat-the-week-in-commodities); [TradingEconomics](https://tradingeconomics.com/commodity/gold)). Chicago wheat settled at $7.03/bushel, October live cattle at $218.87 ([Brownfield Ag News](https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-25-2026/)).
 
+## Watchlist
+
+- **BB** -6.1%: BlackBerry gave back its post-earnings pop on Friday, falling as investors focused on slower Secure Communications growth and cautious enterprise-spending commentary despite a Q2 beat-and-raise built on record QNX design wins ([24/7 Wall St.](https://247wallst.com/investing/2026/09/25/blackberry-drops-7-as-post-earnings-rally-unwinds-despite-record-qnx-quarter-mobileye-adds-2/)).
+- **INOD**: Innodata paired record Q2 results with a CEO succession plan — President Rahul Singhal becomes CEO effective September 30, with founder Jack Abuhoff moving to Executive Chairman; shares were little changed on the news ([Seeking Alpha](https://seekingalpha.com/news/4628702-innodata-reiterates-40-percent-revenue-growth-outlook-as-rahul-singhal-is-set-to-become-ceo)).
+- No major news: JPM, GBCI.
+
 ## World
 
 - **Japan**: The yen slid past 158/dollar to three-week lows before recovering slightly Friday after Finance Minister Satsuki Katayama said President Trump had voiced concern about yen weakness — traders are watching the 160 level as a possible intervention trigger ([CNBC](https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html)).
