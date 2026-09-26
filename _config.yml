@@ -5,7 +5,7 @@ author: Rohan Fortunati
 url: https://fordubati.github.io
 baseurl: /Fortunati-Frontier
 timezone: America/Denver
-frontier_email: FRONTIER_EMAIL   # subscribe address (set once the Frontier Gmail exists)
+frontier_email: thefortunatifrontier@gmail.com
 lang: en-US
 
 permalink: /:year/:month/:day/:title/
