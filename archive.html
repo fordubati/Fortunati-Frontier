@@ -1,0 +1,39 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+<section class="archive">
+  <h1>Archive</h1>
+  <div class="filters" role="group" aria-label="Filter editions">
+    <button type="button" data-filter="all" class="active">All</button>
+    <button type="button" data-filter="daily">Daily</button>
+    <button type="button" data-filter="weekly">Weekly</button>
+  </div>
+  {% assign months = site.posts | group_by_exp: "p", "p.date | date: '%B %Y'" %}
+  {% for m in months %}
+  <h2 class="archive-month">{{ m.name }}</h2>
+  <ul class="edition-list">
+    {% for post in m.items %}
+    {% assign e = post.categories | first %}
+    <li data-edition="{{ e }}">
+      <span class="badge badge-{{ e }}">{% if e == 'weekly' %}Weekly{% else %}Daily{% endif %}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time>{{ post.date | date: "%a, %b %-d" }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  {% if site.posts.size == 0 %}<p>No editions yet.</p>{% endif %}
+</section>
+<script>
+  document.querySelectorAll('.filters button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = b.dataset.filter;
+      document.querySelectorAll('.filters button').forEach(function (x) { x.classList.toggle('active', x === b); });
+      document.querySelectorAll('.archive li[data-edition]').forEach(function (li) {
+        li.hidden = f !== 'all' && li.dataset.edition !== f;
+      });
+    });
+  });
+</script>

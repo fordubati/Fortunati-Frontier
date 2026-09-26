@@ -1,0 +1,34 @@
+title: The Fortunati Frontier
+tagline: Markets, politics & Montana, every morning.
+description: A daily markets and world-affairs brief from Bozeman, Montana. Neutral, factual, and written to make you think.
+author: Rohan Fortunati
+url: https://fordubati.github.io
+baseurl: /Fortunati-Frontier
+timezone: America/Denver
+lang: en-US
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# /feed.xml = every edition; /feed/daily.xml and /feed/weekly.xml per edition type.
+# The email service reads these feeds to send "Daily + Weekly" and "Weekly only".
+feed:
+  categories:
+    - daily
+    - weekly
+  excerpt_only: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+exclude:
+  - README.md
+  - EDITORIAL_GUIDE.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock

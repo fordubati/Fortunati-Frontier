@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign edition = page.categories | first %}
+<article class="edition">
+  <header class="edition-head">
+    <span class="badge badge-{{ edition }}">{% if edition == 'weekly' %}Weekly Edition{% else %}Daily Brief{% endif %}</span>
+    <h1>{{ page.title }}</h1>
+    <p class="edition-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A, %B %-d, %Y" }}</time>
+      · {{ content | number_of_words | divided_by: 220 | plus: 1 }} min read
+    </p>
+    {% if page.summary %}<p class="edition-summary">{{ page.summary }}</p>{% endif %}
+  </header>
+
+  <div class="edition-body">
+    {{ content }}
+  </div>
+
+  <nav class="edition-nav">
+    {% if page.previous %}<a class="prev" href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% else %}<span></span>{% endif %}
+    {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+  </nav>
+</article>

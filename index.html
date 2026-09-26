@@ -1,0 +1,37 @@
+---
+layout: default
+title: Latest
+---
+{% assign latest = site.posts | first %}
+{% if latest %}
+{% assign edition = latest.categories | first %}
+<section class="lead">
+  <span class="badge badge-{{ edition }}">{% if edition == 'weekly' %}Weekly Edition{% else %}Daily Brief{% endif %}</span>
+  <h1><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h1>
+  <p class="edition-meta">{{ latest.date | date: "%A, %B %-d, %Y" }}</p>
+  {% if latest.summary %}<p class="edition-summary">{{ latest.summary }}</p>{% endif %}
+  <div class="edition-body">{{ latest.content }}</div>
+</section>
+{% else %}
+<section class="lead">
+  <h1>First edition coming soon</h1>
+  <p class="edition-summary">Daily briefs Monday through Saturday and a full weekly edition every Sunday, all by 7 AM Mountain.</p>
+</section>
+{% endif %}
+
+{% if site.posts.size > 1 %}
+<section class="recent">
+  <h2>Recent editions</h2>
+  <ul class="edition-list">
+    {% for post in site.posts offset: 1 limit: 14 %}
+    {% assign e = post.categories | first %}
+    <li>
+      <span class="badge badge-{{ e }}">{% if e == 'weekly' %}Weekly{% else %}Daily{% endif %}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time>{{ post.date | date: "%b %-d" }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/archive/' | relative_url }}">Full archive →</a></p>
+</section>
+{% endif %}
