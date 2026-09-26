@@ -5,4 +5,5 @@ Changes are picked up by the next Daily Brief or Weekly Edition. No other setup 
 
 "- INOD"
 "- BB"
-
+"- JPMC"
+"- GBC"
