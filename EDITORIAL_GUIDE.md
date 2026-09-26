@@ -23,7 +23,7 @@ Front matter:
 layout: post
 title: "Weekly Edition: Week of September 21, 2026"
 categories: [weekly]
-date: 2026-09-27 06:30:00 -0600
+date: 2026-09-27 06:17:42 -0600   # the ACTUAL current time: TZ=America/Denver date "+%Y-%m-%d %H:%M:%S %z"
 summary: "One sentence: the week's single most important theme."
 ---
 ```
@@ -60,7 +60,7 @@ Front matter:
 layout: post
 title: "Daily Brief: Monday, September 28"
 categories: [daily]
-date: 2026-09-28 06:30:00 -0600
+date: 2026-09-28 06:17:42 -0600   # the ACTUAL current time: TZ=America/Denver date "+%Y-%m-%d %H:%M:%S %z"
 summary: "One sentence: the day's headline."
 ---
 ```
@@ -75,6 +75,7 @@ Body: skim format, 1–3 bullets per section and only what actually moved. Skip 
 ## Files and publishing
 
 - Weekly: `_posts/YYYY-MM-DD-weekly-edition.md`. Daily: `_posts/YYYY-MM-DD-daily-brief.md`, using today's Mountain Time date.
+- The front-matter `date` must be the real current time (never a future time), or Jekyll will hide the post.
 - If today's file already exists, update it instead of creating a duplicate.
 - Commit to `main` with the message `Daily Brief YYYY-MM-DD` or `Weekly Edition YYYY-MM-DD`, then push to `main`. GitHub Pages publishes automatically.
 - Touch nothing outside `_posts/` unless the run's instructions say to.
