@@ -1,9 +1,11 @@
 # Watchlist
 
-Add or remove one ticker per line, starting with "- ". An optional note after the dash-space helps, e.g. "- NVDA (AI chips)".
+Add or remove one ticker per line, starting with a dash and a space (no quotation marks). A note in parentheses is optional.
+Example:
+    - NVDA (AI chips)
 Changes are picked up by the next Daily Brief or Weekly Edition. No other setup is needed.
 
-"- INOD"
-"- BB"
-"- JPMC"
-"- GBC"
+- INOD (Innodata)
+- BB (BlackBerry)
+- JPM (JPMorgan Chase)
+- GBC
