@@ -1,0 +1,113 @@
+{
+  "generated": "2026-09-28T12:25:27.527802Z",
+  "markets": {
+    "S&P 500": {
+      "as_of": "2026-09-25",
+      "level": 7743.41,
+      "unit": "%",
+      "chg_1d": 0.51,
+      "chg_1w": 1.21,
+      "chg_1m": 0.88
+    },
+    "10-yr Treasury yield": {
+      "as_of": "2026-09-24",
+      "level": 5.18,
+      "unit": "bp",
+      "chg_1d": 7.0,
+      "chg_1w": 24.0,
+      "chg_1m": 54.0
+    },
+    "WTI crude ($/bbl)": {
+      "as_of": "2026-09-22",
+      "level": 96.41,
+      "unit": "%",
+      "chg_1d": -0.58,
+      "chg_1w": -9.91,
+      "chg_1m": 10.55
+    },
+    "30-yr mortgage rate": {
+      "as_of": "2026-09-24",
+      "level": 7.03,
+      "unit": "bp",
+      "chg_1d": 8.0,
+      "chg_1w": 8.0,
+      "chg_1m": 38.0
+    },
+    "Nasdaq Composite": {
+      "as_of": "2026-09-25",
+      "level": 27068.72,
+      "unit": "%",
+      "chg_1d": 0.48,
+      "chg_1w": 2.06,
+      "chg_1m": 3.59
+    },
+    "Dow Jones": {
+      "as_of": "2026-09-25",
+      "level": 51828.62,
+      "unit": "%",
+      "chg_1d": 0.93,
+      "chg_1w": 0.28,
+      "chg_1m": -3.06
+    },
+    "2-yr Treasury": {
+      "as_of": "2026-09-24",
+      "level": 4.87,
+      "unit": "bp",
+      "chg_1d": 2.0,
+      "chg_1w": 20.0,
+      "chg_1m": 70.0
+    },
+    "30-yr Treasury": {
+      "as_of": "2026-09-24",
+      "level": 5.47,
+      "unit": "bp",
+      "chg_1d": 7.0,
+      "chg_1w": 18.0,
+      "chg_1m": 30.0
+    }
+  },
+  "watchlist": {
+    "INOD": {
+      "as_of": "2026-09-25",
+      "level": 69.21,
+      "unit": "%",
+      "chg_1d": -3.7,
+      "chg_1w": 21.12,
+      "chg_1m": 23.94,
+      "name": "Innodata Inc."
+    },
+    "BB": {
+      "as_of": "2026-09-25",
+      "level": 8.21,
+      "unit": "%",
+      "chg_1d": -5.96,
+      "chg_1w": 2.75,
+      "chg_1m": 5.39,
+      "name": "BlackBerry Limited"
+    },
+    "JPM": {
+      "as_of": "2026-09-25",
+      "level": 343.06,
+      "unit": "%",
+      "chg_1d": 1.33,
+      "chg_1w": -1.89,
+      "chg_1m": -3.77,
+      "name": "JPMorgan Chase & Co."
+    },
+    "GBCI": {
+      "as_of": "2026-09-25",
+      "level": 44.75,
+      "unit": "%",
+      "chg_1d": 0.9,
+      "chg_1w": 0.18,
+      "chg_1m": -5.15,
+      "name": "Glacier Bancorp, Inc."
+    }
+  },
+  "curve": {},
+  "charts": [
+    "markets.png",
+    "watchlist.png"
+  ],
+  "errors": []
+}
