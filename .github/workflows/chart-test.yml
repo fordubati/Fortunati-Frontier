@@ -1,0 +1,16 @@
+name: Chart test
+on: workflow_dispatch
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install matplotlib
+      - run: python scripts/charts.py --date test --weekly
+      - uses: actions/upload-artifact@v4
+        with:
+          name: charts
+          path: assets/charts/test/
