@@ -92,6 +92,11 @@ def stock(ticker):
     return pts, ticker
 
 
+def spark(pts, n=22):
+    """Last ~month of values, for text sparklines in email."""
+    return [round(v, 3) for _, v in pts[-n:]]
+
+
 def value_on_or_before(pts, d):
     cands = [v for (x, v) in pts if x <= d]
     return cands[-1] if cands else None
@@ -172,12 +177,12 @@ def main():
     for sid, name, kind, is_rate in specs:
         try:
             pts = fred(sid, start); series[sid] = (pts, name, kind, is_rate)
-            data["markets"][name] = changes(pts, is_rate)
+            data["markets"][name] = dict(changes(pts, is_rate), spark=spark(pts))
         except Exception as e:  # noqa: BLE001
             errors.append(f"FRED {sid}: {e}")
     for sid, name, is_rate in extra:
         try:
-            data["markets"][name] = changes(fred(sid, start), is_rate)
+            xp = fred(sid, start); data["markets"][name] = dict(changes(xp, is_rate), spark=spark(xp))
         except Exception as e:  # noqa: BLE001
             errors.append(f"FRED {sid}: {e}")
     if series:
@@ -205,7 +210,7 @@ def main():
     for t in tickers[:9]:
         try:
             pts, name = stock(t)
-            data["watchlist"][t] = dict(changes(pts, False), name=name)
+            data["watchlist"][t] = dict(changes(pts, False), name=name, spark=spark(pts))
             got.append((t, pts))
         except Exception as e:  # noqa: BLE001
             errors.append(f"price {t}: {e}")
