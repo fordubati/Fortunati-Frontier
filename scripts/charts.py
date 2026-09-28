@@ -143,8 +143,8 @@ def panel(ax, pts, title, kind, ch, window_days=92):
     ax.text(0, 1.04, fmt_level(ys[-1], kind), transform=ax.transAxes, fontsize=16, fontweight="bold", color=INK, va="bottom")
     day_txt, day_col = arrow(ch.get("chg_1d"), ch["unit"])
     wk_txt, wk_col = arrow(ch.get("chg_1w"), ch["unit"])
-    ax.text(1, 1.04, f"{day_txt} day", transform=ax.transAxes, ha="right", fontsize=10, color=day_col, va="bottom")
-    ax.text(1, 1.13, f"{wk_txt} wk", transform=ax.transAxes, ha="right", fontsize=10, color=wk_col, va="bottom")
+    ax.text(1, 1.03, f"{day_txt} day", transform=ax.transAxes, ha="right", fontsize=10, color=day_col, va="bottom")
+    ax.text(1, 1.12, f"{wk_txt} wk", transform=ax.transAxes, ha="right", fontsize=10, color=wk_col, va="bottom")
 
 
 def save(fig, path):
@@ -189,7 +189,7 @@ def main():
                 ax.axis("off")
         fig.suptitle("Markets, last 3 months", x=0.01, ha="left", fontsize=13, fontweight="bold", color=INK, y=1.03)
         fig.text(0.01, -0.02, "Source: FRED, Federal Reserve Bank of St. Louis. Mortgage rate is weekly (1-yr view).", fontsize=8, color=MUTED)
-        fig.tight_layout(h_pad=3.2, w_pad=3)
+        fig.tight_layout(h_pad=4.5, w_pad=3)
         save(fig, os.path.join(outdir, "markets.png")); data["charts"].append("markets.png")
 
     # ---- Watchlist ----
@@ -197,7 +197,7 @@ def main():
     wl = os.path.join(ROOT, "watchlist.md")
     if os.path.exists(wl):
         for line in open(wl, encoding="utf-8"):
-            m = re.match(r"^\s*-\s+\"?([A-Za-z.\-]{1,6})\b", line)
+            m = re.match(r"^-\s+\"?([A-Za-z.\-]{1,6})\b", line)  # top-level list items only (skips indented examples)
             if m:
                 tickers.append(m.group(1).upper())
     got = []
@@ -217,7 +217,7 @@ def main():
             ax.axis("on")
             panel(ax, pts, t, "usd", data["watchlist"][t])
         fig.suptitle("Watchlist, last 3 months", x=0.01, ha="left", fontsize=13, fontweight="bold", color=INK, y=1.04)
-        fig.tight_layout(h_pad=3.2, w_pad=2.5)
+        fig.tight_layout(h_pad=4.5, w_pad=2.5)
         save(fig, os.path.join(outdir, "watchlist.png")); data["charts"].append("watchlist.png")
 
     # ---- Yield curve (weekly) ----
@@ -246,7 +246,7 @@ def main():
                 ax.text(xs[-1] + 0.12, ys[-1], key, color=INK2, fontsize=10, va="center")
             ax.set_xticks(range(len(curves["Today"])))
             ax.set_xticklabels([lab for lab, _ in curves["Today"]])
-            ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:.1f}%"))
+            ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:.2f}%"))
             ax.grid(axis="y", color=GRID, linewidth=0.8)
             for s in ("top", "right", "left"):
                 ax.spines[s].set_visible(False)
