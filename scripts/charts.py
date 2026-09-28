@@ -115,8 +115,9 @@ def arrow(v, unit):
     if v is None:
         return "", INK2
     sign = "▲" if v > 0 else ("▼" if v < 0 else "■")
-    txt = f"{sign} {abs(v):.0f} bp" if unit == "bp" else f"{sign} {abs(v):.1f}%"
-    return txt, (UP if v > 0 else DOWN if v < 0 else INK2)
+    if unit == "bp":  # rates: up is not "good" or "bad", so keep neutral ink
+        return f"{sign} {abs(v):.0f} bp", INK2
+    return f"{sign} {abs(v):.1f}%", (UP if v > 0 else DOWN if v < 0 else INK2)
 
 
 def fmt_level(v, kind):
