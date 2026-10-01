@@ -34,7 +34,7 @@ Every item ends with a link to the best source article, formatted exactly `[Read
 
 `watchlist.md` holds the reader's tickers, one per line (`- NVDA`, with an optional note). Read it every run and never edit it. Use `data.json` → `watchlist` for price moves. Skip malformed lines; flag unknown symbols as "unrecognized ticker: XYZ".
 
-## Daily Brief (Mon–Sat): 350–550 words, a 3-minute read
+## Daily Brief (Mon–Fri): 350–550 words, a 3-minute read
 
 Front matter:
 ```yaml
@@ -57,6 +57,8 @@ Body, in this order:
 7. `## One question`: one thought-provoking question, one line.
 
 Skip any section (except 1 and 7) when nothing notable happened.
+
+**Research budget (Daily Brief).** Cover seven areas: (1) Fed, bonds & markets incl. commodities, (2) stocks & the watchlist, (3) housing, (4) trade & tariffs, (5) world: Japan, UK, China & conflicts, (6) U.S. politics, (7) Montana & Bozeman. Use at most **2 WebFetch calls per area (14 total)** and about 10 WebSearch calls overall; a search snippet plus one fetched article is enough for an item. Market numbers come from `data.json`, never from fetching. On Monday, cover news since Friday morning.
 
 ## Weekly Edition (Sun): 1,200–1,800 words, an 8–10-minute read
 
