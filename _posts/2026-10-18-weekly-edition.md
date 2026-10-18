@@ -3,18 +3,18 @@ layout: post
 title: "Weekly Edition: Week of October 12"
 categories: [weekly]
 date: 2026-10-18 06:16:05 -0600
-summary: "Hot CPI, cold reaction: yields fell anyway. Oil jumped 7% as the Hormuz war widened, and bank earnings closed out mixed."
+summary: "An AI-chip selloff snapped the rally Friday, banks split again on earnings, and oil holds near $102 as the Fed stays quiet in Bangkok."
 ---
 
-Stocks had their worst week in two months after Wednesday's hot CPI print, yet Treasury yields fell anyway. Oil jumped 7% as fighting around the Strait of Hormuz spread to Saudi targets. Bank earnings season wrapped mixed, and Trump kicked off a 32-day campaign blitz with his approval rating near its lowest point yet.
+A Friday selloff in chip stocks erased the week's gains, bank earnings split for a third straight week, and the Fed's chair declined to tip his hand on October at an IMF meeting in Bangkok. Oil held near $102 a barrel, China's exports kept growing despite tariffs, and the midterms are now two and a half weeks out.
 
 ## The week in 60 seconds
 
-- The S&P 500 fell 1.95% to 7,659.44 and the Nasdaq dropped 1.77% to 26,713.03, both hit by Wednesday's post-CPI selloff, their worst single session in weeks; the Dow bucked the trend, up 0.67% to 52,002.41.
-- The 10-year Treasury yield fell 12 bp to 5.10% even though September CPI ran hot at 3.7% year-over-year; the Fed meets October 27-28.
-- WTI crude jumped 7.25% to $101.91/bbl after new attacks on shipping in the Strait of Hormuz and on Saudi targets widened the Iran conflict.
-- Innodata fell 14.86% this week and BlackBerry dropped 9.54%, while JPMorgan and Glacier Bancorp each gained more than 2%.
-- Trump began a 32-day campaign tour ahead of the November 3 midterms as his approval rating hit 30% in Pew's latest poll, matching his low from January 2021.
+- The S&P 500 fell 1.95% on the week to 7,659.44, its worst week since June, as a Friday chip-stock selloff (Micron -5.6%, Intel -5.8%) wiped out an early-week bounce.
+- Bank earnings split again: JPMorgan and Wells Fargo missed on revenue despite beating on profit; Goldman Sachs, Citigroup, Morgan Stanley, and Truist beat on both lines; Bank of America's profit fell 17% on higher costs.
+- The 10-year Treasury yield fell 12 bp to 5.10% even as Fed Chair Kevin Warsh declined to signal an October hike at a Bangkok fireside chat with the IMF's Kristalina Georgieva.
+- WTI crude held near $101.91/bbl, up 7.25% on the week, as the Strait of Hormuz standoff drags on; China's rare-earth truce expires in three weeks, on November 10.
+- INOD and BB both resumed last month's slide, down 14.86% and 9.54% on the week with no fresh company news behind either move, while JPM and GBCI quietly outperformed.
 
 ## Markets
 
@@ -29,30 +29,32 @@ Stocks had their worst week in two months after Wednesday's hot CPI print, yet T
 | 10-yr Treasury yield | 5.10% | -12 bp |
 | 2-yr Treasury yield | 4.77% | +2 bp |
 | 30-yr Treasury yield | 5.43% | -17 bp |
-| 30-yr mortgage rate | 7.40% | +0 bp |
+| 30-yr mortgage rate | 7.40% | unchanged |
 | WTI crude | $101.91/bbl | +7.25% |
 
 ### Bonds
 
-**Yields fell even though inflation ran hot, the same split seen all week.** The 10-year dropped 12 bp to 5.10% and the 30-year fell 17 bp to 5.43%, despite Wednesday's September CPI print of 3.7% year-over-year (core 2.6%), hotter than the recent trend ([BLS](https://www.bls.gov/news.release/cpi.nr0.htm)). The Fed's next meeting is October 27-28, with no Summary of Economic Projections scheduled ([Federal Reserve](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)). *Markets: when a hot inflation print doesn't lift yields, traders are pricing more concern about growth than about prices.*
+**The Fed's Beige Book flagged prices, not growth, as the worry.** Released Wednesday, nine of 12 districts reported some growth (down from 10 in August), while most called price pressure from tariffs, labor, and energy "moderate" or stronger. The report covers activity through October 5, two weeks before the Fed's next meeting ([Minneapolis Fed](https://minneapolisfed.org/beige-book-reports/2026/2026-10-su)).
+
+**Fed Chair Warsh stayed quiet on October.** At an IMF fireside chat with Managing Director Kristalina Georgieva in Bangkok Thursday night, Warsh declined to say whether the Fed will hike at its October 27-28 meeting, repeating that inflation is still too high ([CoinGape](https://coingape.com/key-takeaways-from-fed-chair-kevin-warshs-imf-fireside-chat-as-bitcoin-xrp-hold-gains/)).
 
 ### Stocks
 
-**The worst week for stocks in two months.** Wednesday's CPI-driven selloff dragged the S&P 500 down 1.95% to 7,659.44 and the Nasdaq down 1.77% to 26,713.03 on the week. The Dow held up better, up 0.67% to 52,002.41, helped by bank earnings. Bank earnings season closed out split: JPMorgan and Bank of America missed on profit, Goldman Sachs and Morgan Stanley beat ([SEC filing](https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfex992supplement.htm)).
+**Bank earnings split for a third straight week.** JPMorgan and Wells Fargo both missed on revenue (Wells Fargo's $21.87 billion fell short of the $22.31 billion expected) despite beating on EPS. Citigroup, Goldman Sachs, Morgan Stanley, and Truist beat on both lines; Citigroup's profit jumped 40% to $5.2 billion, but the stock still fell as investors weighed slowing trading revenue against the headline beat ([SEC filing](https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm)).
+
+**A chip-stock selloff gave the week its direction.** Micron fell 5.6% and Intel 5.8% Friday as investors reassessed how long the AI buildout can keep running; the S&P 500 lost 1.1% that day, its worst week since June ([AP via La Nación](https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-10162026-nid16102026/)).
 
 ### Housing
 
-**Mortgage rates stayed at a four-year high, but existing-home sales beat expectations anyway.** The 30-year mortgage rate held flat at 7.40%. September existing-home sales rose 1.5% month-over-month to a 3.99 million seasonally adjusted annual rate, beating the 3.96 million consensus, even as sales fell 2.2% year-over-year and the median price rose to $417,500 ([NAR](https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report)). Inventory crept up to 4.8 months' supply; NAR's chief economist called August and September "the two slowest months for home sales this year."
+**The mortgage rate held at a four-year high.** The 30-year averaged 7.40%, unchanged on the week. August building permits, the most recent data available, fell 11.9% from July; the September report is due October 20.
 
 ### Tariffs & Trade
 
-**Tariff policy keeps shifting in pieces, not as one deal.** With the broader Section 122 tariffs expired since July 24, the White House is leaning on Section 232 (national-security) and Section 301 authority for sector-specific action, most recently a August 13 order placing 100% duties on high-risk drones and 25% on smaller consumer and commercial drones ([Congressional Research Service](https://www.everycrsreport.com/files/2026-10-08_R49481_ab4c7edd9ff7686b08fe8599738ceea629983ebf.html)).
-
-**China's rare-earth truce has less than a month left.** Beijing's one-year pause on expanded export controls, granted after last October's Trump-Xi talks, expires November 10, and there's no public sign yet of an extension ([China Briefing](https://china-briefing.com/news/chinas-rare-earth-export-controls)). *Markets: a lapse would hit AI-hardware and defense supply chains hardest, the same sectors driving this year's capex boom.*
+**China's rare-earth truce has company.** Beijing's one-year pause on expanded export controls for five rare-earth elements expires November 10. A separate, narrower suspension on tighter US-bound licensing for gallium, germanium, antimony, and graphite runs three weeks longer, to November 27 ([China Briefing](https://china-briefing.com/news/chinas-rare-earth-export-controls)). *Markets: two deadlines, not one, now sit on the calendar for anyone sourcing Chinese inputs.*
 
 ### Commodities
 
-**Oil jumped on new attacks on Gulf shipping.** WTI crude rose 7.25% this week to $101.91/bbl after a container ship and a tanker were struck by unidentified projectiles inside the Strait of Hormuz Tuesday ([Bol News, citing Reuters](https://bolnews.com/business/oil-prices-rise-after-vessels-struck-in-strait-of-hormuz-iran-using-new-tactics-against-ships)).
+**Oil stayed near its highest levels of the year.** WTI crude is $101.91/bbl, up 7.25% on the week, as fighting around the Strait of Hormuz keeps shipping risk elevated. Gold has cooled sharply by contrast: futures were near $4,157/oz on October 5, about 22% below January's record, as higher yields dull its appeal.
 
 ## Watchlist
 
@@ -65,77 +67,77 @@ Stocks had their worst week in two months after Wednesday's hot CPI print, yet T
 | JPM | $339.72 | +2.02% |
 | GBCI | $43.83 | +2.57% |
 
-**INOD**: Innodata fell for a sixth time in seven sessions, down 14.86% on the week and now off nearly a third from its early-October high, before a 6.45% Friday bounce. No company announcement explains the slide; filings show insiders, led by CEO Jack Abuhoff, have sold shares in the open market repeatedly this year with no offsetting purchases ([Quiver Quantitative](https://www.quiverquant.com/insiders/INOD)).
+**INOD**: Innodata extended its month-long slide, with no company-specific news behind the drop; short interest sits near 16% of the float and insiders have sold steadily since the spring ([Zacks](https://www.zacks.com/stock/news/2900590/innodata-stock-plunges-328-in-3-months-time-to-hold-or-exit)).
 
-**BB**: BlackBerry gave back 9.54%, including a 7.36% single-session drop Friday, with no filing or news behind either move. The slide follows CEO John Giamatteo and three other executives selling shares October 7, extending a pattern of insider selling since the stock's 2026 rally ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/BB/)).
+**BB**: BlackBerry gave back more of its 2026 rally, also with no specific news this week, continuing the swing pattern that's followed its strong fiscal Q2 report and steady insider selling ([stockanalysis.com](https://stockanalysis.com/stocks/bb/)).
 
-**JPM**: JPMorgan rose 2.02%, recovering through the week from Tuesday's rare revenue miss ($50.2 billion versus roughly $51.2 billion expected, EPS $5.57 versus a consensus near $5.90). Pre-earnings analyst price targets had ranged from $305 to $436, averaging $379.67, with ten buy ratings and seven holds ([IG](https://www.ig.com/en-ch/news-and-trade-ideas/jpmorgan-stock-q3-2026-earnings-preview-261012)).
+**JPM**: JPMorgan rose 2.02% as markets digested last week's revenue miss against a still-solid 17% return on equity.
 
-**GBCI**: Glacier Bancorp added 2.57% as investors positioned ahead of Q3 results, due after the close Thursday, October 22, with a call the next morning ([Finviz](https://finviz.com/news/396162/glacier-bancorp-inc-announces-third-quarter-earnings-release-and-conference-call)). The dividend the board raised 6.1% to $0.35 a share, the Kalispell-based bank's 166th straight quarterly payout, was paid October 15.
+**GBCI**: Glacier Bancorp gained 2.57% ahead of its Q3 report, due after the close October 22; consensus calls for EPS near $0.80 on roughly $328-332 million in revenue ([Benzinga](https://www.benzinga.com/quote/GBCI/earnings-forecasts)).
 
 ## Key Economies
 
 ### Japan
 
-The Bank of Japan meets October 29-30, its first full policy review since September's hike to 1.25%, a 31-year high approved 7-2. That falls the same week as the Fed's October 27-28 meeting. *Markets: with both central banks deciding within days of each other, expect outsized moves in USD/JPY either way the decisions break.*
+The Bank of Japan meets October 29-30, its next quarterly Outlook Report since September's 1.25% rate hike, a 31-year high passed on a 7-2 vote. Markets are watching for any signal on a second 2026 hike. *Markets: a hawkish BOJ narrows the gap with the Fed, the main force behind the yen's weakness this year.*
 
 ### United Kingdom
 
-UK GDP grew just 0.1% in August, a step down from July's 0.4% but ahead of the Office for National Statistics' own flash estimate of -0.1%. The three-month trend to August ran 0.7% above the prior three months, an eighth straight such gain ([ONS](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/august2026/pdf)). *Markets: slow-but-positive growth gives the Bank of England little reason to move off 3.75% soon.*
+The UK's most recent GDP read, revised September 30, showed the economy grew 0.5% quarter-on-quarter in Q2 (1.4% annualized), led by exports. The Bank of England holds at 3.75% with its next decision November 5; a UK labour-market report lands October 20 ([Trading Economics](https://tradingeconomics.com/united-kingdom/gdp-growth/news/588004)). *Markets: steady growth and above-target inflation both argue against a near-term BOE cut.*
 
 ### China
 
-Beijing's rare-earth truce enters its final month before the November 10 expiration, with no public sign of an extension from either government ([China Briefing](https://china-briefing.com/news/chinas-rare-earth-export-controls)). *Markets: Beijing's leverage to let the pause lapse grows the longer Washington stays quiet about a renewal.*
+September trade data, released Wednesday, showed exports up 36.3% year-over-year to $447.18 billion and imports up 31%, both well above forecasts; the trade surplus hit $133.53 billion. Semiconductor exports are up 108.1% year-to-date ([SCMP](https://scmp.com/economy/china-economy/article/3370799/chinas-trade-momentum-quickens-september-amid-tech-demand-holiday-rush)). *Markets: tariffs are rerouting China's trade, not shrinking it, which is exactly the pattern that makes the November 10 rare-earth deadline worth watching.*
 
 ## Politics & Geopolitics
 
 ### Conflicts
 
-**The Strait of Hormuz war widened this week.** A container ship and a tanker were hit by unidentified projectiles inside the strait Tuesday; Iranian officials told Reuters they've used new tactics against vessels they consider in violation for about ten days. Phillip Nova's Priyanka Sachdeva said the admission reveals the "real intentions" behind the so-called peace talks ([Bol News, citing Reuters](https://bolnews.com/business/oil-prices-rise-after-vessels-struck-in-strait-of-hormuz-iran-using-new-tactics-against-ships)). *Markets: oil's 7% weekly jump is the clearest read on how seriously traders are taking the escalation.*
+**The Strait of Hormuz standoff shows no sign of resolving.** Iran's naval forces and U.S. Central Command continue to give conflicting accounts of whether the strait is open, with the dispute now running for months and keeping a war premium in oil prices. *Markets: that unresolved risk is the main reason WTI is holding near $102 instead of retreating with the rest of this year's commodity moves.*
 
-**Houthi forces struck Saudi targets directly.** Houthi fighters hit an Aramco administrative building in Dhahran, causing a limited fire, and struck Riyadh's airport four times, including a Saturday attack that killed 13 people, according to the same Reuters-sourced report. *Markets: the conflict spreading beyond the strait itself raises the odds oil's premium stays elevated even if shipping through Hormuz stabilizes.*
+**Trilateral Ukraine talks remain more planned than scheduled.** Kyiv and the Kremlin both floated October as a window for US-brokered three-way talks after visits from envoys Steve Witkoff and Jared Kushner, but no session has been confirmed as of this week, and Kyiv's own officials remain skeptical a deal is close ([Global Banking and Finance](https://www.globalbankingandfinance.com/kyiv-preparing-talks-resume-october-senior-ukrainian/)). *Markets: no breakthrough means oil's geopolitical risk premium stays priced in alongside the Hormuz standoff.*
 
 ### U.S. National Politics
 
-**Trump began a 32-day campaign tour ahead of the midterms.** The president plans to crisscross at least 10 states before the November 3 elections, with stops already made in Oklahoma, Alabama, and Ohio, arguing that rallying his base directly is the best way to help Republican candidates ([Outlook India](https://www.outlookindia.com/international/trump-takes-the-midterms-on-the-road-inside-his-32-day-republican-campaign-blitz)). *Markets: a contentious midterm cycle adds policy uncertainty heading into year-end, on top of tariffs and the Fed.*
+**The midterms are two and a half weeks away.** All 435 House seats, 35 Senate seats, and 36 governorships are on the November 3 ballot. The House is split 220-213 for Republicans, and the Cook Political Report rates 17 of 66 competitive races as true toss-ups ([Yahoo/AP](https://www.yahoo.com/news/articles/u-house-contests-decide-control-140000554.html)). *Markets: control of Congress shapes the FY2027 budget fight still pending before the December 11 funding deadline.*
 
-**His approval rating sits near the low point of either term.** Pew Research put approval at 30% in a survey conducted September 28-October 4, which Pew says matches his rating just before he left office in January 2021; other October polls put him between 32% and 36% ([Political Wire](https://politicalwire.com/2026/10/14/trump-approval-at-34/)). *Markets: weak approval ahead of a midterm the GOP already expects to be tough raises the odds of policy swings depending on the result.*
+### Global Affairs
+
+**Central bankers gathered in Bangkok for the IMF's annual meetings.** Fed Chair Warsh held a bilateral meeting with Thailand's central bank governor, who called the talks "very productive," alongside his public fireside chat on Fed policy. *Markets: these meetings rarely move prices directly, but they're where officials test messaging ahead of the Fed's and BOJ's back-to-back late-October decisions.*
 
 ## Montana & Bozeman
 
 ### Business
 
-Montana's marquee business event, the Big Sky, Bright Future Economic Summit, ran October 14-15 in Bozeman, co-hosted by Governor Gianforte and the Montana Chamber of Commerce at The Commons, with this year's focus on tech and innovation ([Montana Chamber of Commerce](https://montanachamber.com/economic-summit/)).
-
-### Local Politics
-
-Glacier Bancorp, the state's most-watched bank stock, reports Q3 results after the close Thursday, October 22, days after paying its 166th consecutive quarterly dividend on October 15 ([Finviz](https://finviz.com/news/394486/glacier-bancorp-inc-increases-quarterly-dividend)).
+Montana's marquee business event, the Big Sky, Bright Future Economic Summit, ran Thursday at The Commons in Bozeman, co-hosted by Governor Gianforte and the Montana Chamber of Commerce with a focus on tech and innovation ([Montana Chamber of Commerce](https://montanachamber.com/economic-summit/)). Glacier Bancorp, the Kalispell-based bank on the watchlist, reports Q3 earnings Thursday, October 22.
 
 ## Connecting the dots
 
-- Hot CPI normally pushes yields up; this week it didn't, which lines up with bond markets betting the Fed's October 27-28 meeting is about managing a slowing economy, not just fighting inflation.
-- Oil's jump to $101.91 and the Fed's and BOJ's meetings landing the same week (October 27-28 and 29-30) are on a collision course: a weaker yen plus pricier oil is a rougher mix for Japanese import costs than either alone.
-- Trump's approval sliding to 30% just as his 32-day campaign tour begins, and as tariff policy keeps shifting in one-off sector orders rather than a single deal, both point to an administration trying to shore up support piece by piece rather than with one big win.
+- Banks keep splitting the same way: fee-and-trading-heavy units (Citi, Goldman, Morgan Stanley) are carrying the quarter while lending-heavy balance sheets (JPMorgan, Wells Fargo, Bank of America) miss on revenue or get squeezed by costs, a sign client fees now matter more than net interest margin.
+- A chip-stock selloff, not Fed guidance or last week's CPI print, set this week's direction, evidence that doubts about the pace of AI capex can now move the whole market faster than monetary-policy signals.
+- China's exports grew 36% in September even as Washington's tariffs stay in place, the same "reroute, don't retreat" pattern as last month, while Beijing's biggest remaining leverage point, the rare-earth truce, still lapses in three weeks.
 
 ## Questions to think about
 
-- If a hot inflation print no longer reliably pushes yields up, has the market's read on the Fed fundamentally changed, or is this one anomalous week?
-- Existing-home sales beat expectations even with mortgage rates near 7.4%. How much more can resilient demand offset high borrowing costs before something gives?
-- The Strait of Hormuz conflict has now drawn in Saudi targets directly. At what point does "contained regional conflict" stop being an accurate description?
+- If one day of AI-chip-selloff news can erase a week's gains, how much of the market's 2026 record run is really priced on a handful of semiconductor supply forecasts?
+- Banks keep reporting the same split: strong fees, weaker lending economics. At what point does that become the sector's new normal instead of a quarter-to-quarter story?
+- If Washington and Beijing let the rare-earth truce lapse November 10 without a new deal, who absorbs the compliance cost first, manufacturers or the consumers buying what they make?
 
 ## Interview angle
 
-**"Why would yields fall on a hot inflation print?"** Normally, hotter inflation means the Fed stays tighter for longer, which should push yields up. This week's drop suggests bond investors are more worried about growth risk, or are betting the CPI print is noisy rather than a trend. Either read matters heading into the Fed's October 27-28 decision.
+**"Why did stocks fall this week when most big banks beat earnings?"** The market had already priced in bank earnings season; Friday's chip-stock selloff on AI-capex doubts set the week's direction instead, a reminder that sentiment in one sector can outweigh good news in another.
 
-**"How should an investor think about tariff risk right now?"** Policy isn't one law anymore, it's a rolling series of Section 232 and Section 301 actions on specific products, from drones to steel to pharmaceuticals. Model exposure under current rates and a plausible next sector action, rather than assuming either a full rollback or a single further escalation.
+**"What's the read on the Fed after this week?"** Fed Chair Warsh avoided tipping his hand on an October hike in Bangkok, and the Beige Book showed moderating growth alongside still-elevated prices, a mixed picture that argues for no clear signal heading into the October 27-28 meeting.
 
-**"What's the market read on the Strait of Hormuz conflict widening to Saudi Arabia?"** Oil's 7% weekly jump says markets are repricing supply risk, not just reacting to one tanker incident. When a regional conflict starts hitting a major producer's own infrastructure, directly, traders generally assume the premium is more durable, not a one-week spike.
+**"How should investors think about China's trade data given tariff tensions?"** September exports rose 36% even with US tariffs in place, showing Chinese exporters are rerouting volume rather than losing it. The bigger swing factor for anyone using China-sourced inputs is whether the rare-earth truce gets extended before it lapses November 10.
 
 ## The week ahead
 
-- **Tuesday, Oct 20**: Netflix reports Q3 earnings after the close.
-- **Thursday, Oct 22**: Glacier Bancorp reports Q3 results after the close, with an investor call the next morning.
-- **Monday, Oct 27 - Tuesday, Oct 28**: FOMC meeting and rate decision.
-- **Thursday, Oct 29 - Friday, Oct 30**: Bank of Japan policy meeting.
-- **Tuesday, Nov 3**: U.S. midterm elections.
-- **Tuesday, Nov 10**: China's rare-earth export-control truce expires.
+- **Tuesday, Oct 20**: UK labour market report (June-August); U.S. housing starts and building permits (September).
+- **Wednesday, Oct 21**: Texas Instruments and CME Group report earnings, among others.
+- **Thursday, Oct 22**: Glacier Bancorp reports Q3 results after the close.
+- **Friday, Oct 23**: UK retail sales (September).
+- **Tuesday-Wednesday, Oct 27-28**: FOMC meeting and rate decision, press conference at 2:30 p.m. ET on the 28th.
+- **Thursday-Friday, Oct 29-30**: Bank of Japan policy meeting and quarterly Outlook Report.
+- **Tuesday, Nov 3**: U.S. midterm elections, all 435 House seats, 35 Senate seats, and 36 governorships.
+- **Tuesday, Nov 10**: China's rare-earth export-control truce, and a related US-bound licensing pause, both expire.
