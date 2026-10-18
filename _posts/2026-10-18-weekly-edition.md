@@ -6,7 +6,7 @@ date: 2026-10-18 06:16:05 -0600
 summary: "An AI-chip selloff snapped the rally Friday, banks split again on earnings, and oil holds near $102 as the Fed stays quiet in Bangkok."
 ---
 
-A Friday selloff in chip stocks erased the week's gains, bank earnings split for a third straight week, and Fed Chair Warsh declined to tip his hand on October at an IMF meeting in Bangkok. Oil held near $102, China's exports kept growing despite tariffs, and the midterms are two and a half weeks out.
+A Friday chip-stock selloff erased the week's gains, bank earnings split for a third straight week, and Fed Chair Warsh stayed quiet on October at an IMF meeting in Bangkok. Oil held near $102, China's exports kept growing despite tariffs, and the midterms are two and a half weeks out.
 
 ## The week in 60 seconds
 
@@ -42,7 +42,7 @@ A Friday selloff in chip stocks erased the week's gains, bank earnings split for
 
 ### Housing
 
-**The mortgage rate held at a four-year high.** The 30-year averaged 7.40%, unchanged on the week. August building permits fell 11.9% from July to a 1,394,000 annual rate, 27.1% below a year ago; the September report is due October 20 ([Census Bureau](https://www.census.gov/construction/nrc/pdf/newresconst_202608.pdf)).
+**The mortgage rate held at a four-year high.** The 30-year averaged 7.40%, unchanged on the week. August building permits fell 11.9% from July to a 1,394,000 annual rate; the September report is due October 20 ([Census Bureau](https://www.census.gov/construction/nrc/pdf/newresconst_202608.pdf)).
 
 ### Tariffs & Trade
 
@@ -89,7 +89,9 @@ September trade data, released Wednesday, showed exports up 36.3% year-over-year
 
 ### Conflicts
 
-**The Strait of Hormuz standoff shows no sign of resolving.** Iran's naval forces and U.S. Central Command continue to give conflicting accounts of whether the strait is open, with the dispute running for months and keeping a war premium in oil prices. *Markets: that unresolved risk is the main reason WTI holds near $102 instead of retreating with other commodities.*
+**A third tanker was mined in the Strait of Hormuz.** Iran's Revolutionary Guard said an unidentified supertanker hit a mine and caught fire in its engine room October 12, the third vessel struck in a week on what Tehran calls a "prohibited route"; the IRGC warned that ships running with navigation systems off will be treated as hostile. Reuters separately counted 12 attacks on oil and gas tankers near the strait in late September, the most of any week since the war began in February ([gCaptain](https://gcaptain.com/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say/)). *Markets: that's the direct driver of oil's 7% weekly jump.*
+
+**Israel halted commercial goods into Gaza, each side blaming the other.** Israel's military liaison office stopped commercial-goods entry October 14, accusing Hamas of charging merchants a roughly $3,220-per-truck fee; Gaza's government media office denied it the next day, calling the fee a voluntary donation fund. The US-mediated truce calls for 600 aid trucks a day; truckers say the actual flow is closer to 300 ([Al Jazeera](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims)). *Markets: a ceasefire getting more fragile keeps a thin extra risk premium in oil alongside Hormuz.*
 
 ### U.S. National Politics
 
@@ -97,7 +99,7 @@ September trade data, released Wednesday, showed exports up 36.3% year-over-year
 
 ### Global Affairs
 
-**Trilateral Ukraine talks remain more planned than scheduled.** Kyiv and the Kremlin both floated October as a window for US-brokered three-way talks after visits from envoys Steve Witkoff and Jared Kushner, but no session was confirmed this week, and Kyiv's own officials remain skeptical a deal is close ([Global Banking and Finance](https://www.globalbankingandfinance.com/kyiv-preparing-talks-resume-october-senior-ukrainian/)). *Markets: no breakthrough means oil's geopolitical risk premium stays priced in alongside Hormuz.*
+**Trump paused new Russia sanctions a day before they'd have taken effect.** An October 17 executive order delays penalties under the Lindsey Graham Act that were due to kick in that Sunday; existing sanctions stay in place. The waiver came hours after Russia hit Ukrainian energy sites with 332 drones and four cruise missiles, per Ukraine's air force. Zelensky said the U.S. had chosen to "completely disregard" the law; Moscow's Kirill Dmitriev called the move "historic" ([Salon](https://www.salon.com/2026/10/17/zelenskyy-trump-is-letting-putin-off/)). *Markets: easing sanctions pressure on Russian energy nudges oil's risk premium the opposite way from Hormuz.*
 
 ## Montana & Bozeman
 
@@ -105,9 +107,13 @@ September trade data, released Wednesday, showed exports up 36.3% year-over-year
 
 Montana's marquee business event, the Big Sky, Bright Future Economic Summit, ran Thursday at The Commons in Bozeman, co-hosted by Governor Gianforte and the Montana Chamber of Commerce with a focus on tech and innovation ([Montana Chamber of Commerce](https://montanachamber.com/economic-summit/)). Glacier Bancorp, the Kalispell-based bank on the watchlist, reports Q3 earnings October 22.
 
+### Local Politics
+
+Gallatin County mailed more than 63,000 absentee ballots October 9 for the November 3 election. Election administrator Eric Semerad recommends mailing ballots back by October 28, or October 26 for voters returning them from out of state; satellite registration runs at MSU's Strand Union Building through October 30 ([Explore Big Sky](https://www.explorebigsky.com/2026-midterm-elections-how-to-cast-your-ballot-in-gallatin-county/174822)).
+
 ## Connecting the dots
 
-- Banks keep splitting the same way: fee-heavy units (Citi, Goldman, Morgan Stanley) are carrying the quarter while lending-heavy balance sheets (JPMorgan, Wells Fargo, Bank of America) miss on revenue or get squeezed by costs.
+- Banks keep splitting the same way: fee-heavy units (Citi, Goldman, Morgan Stanley) carry the quarter while lenders (JPMorgan, Wells Fargo, Bank of America) miss on revenue or get squeezed by costs.
 - A chip-stock selloff, not Fed guidance or last week's CPI print, set this week's direction, evidence that AI-capex doubts can now move markets faster than monetary-policy signals.
 - China's exports grew 36% in September despite Washington's tariffs, the same "reroute, don't retreat" pattern as last month, while Beijing's biggest leverage point, the rare-earth truce, still lapses in three weeks.
 
