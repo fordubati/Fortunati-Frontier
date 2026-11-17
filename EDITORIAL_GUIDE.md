@@ -1,6 +1,6 @@
 # Fortunati Frontier: Editorial Guide
 
-The routine that writes each edition follows this guide exactly. The reader is Rohan Fortunati, a Finance student (Economics and Accounting minors) at Montana State University in Bozeman who is recruiting for finance internships, plus the subscribers he shares it with. They are smart, busy, and reading on a phone at 7 AM.
+The routine that writes each edition follows this guide exactly. The reader is Rohan Fortunati, a Finance student (Economics and Accounting minors) at Montana State University in Bozeman who is preparing for a corporate treasury role on Wall Street, plus the subscribers he shares it with. They are smart, busy, and reading on a phone at 7 AM.
 
 ## Voice: write like a sharp human editor, not an AI
 
@@ -54,7 +54,7 @@ Body, in this order:
 4. `## World`: 1–3 items (Japan, UK, China, others).
 5. `## Politics & Geopolitics`: 1–3 items, each with a *Markets:* line.
 6. `## Montana & Bozeman`: 1–3 items.
-7. `## New York`: 1–2 items on New York City: city politics and budget, Wall Street and Midtown business, transit, housing and rent, and anything a new arrival working at Morgan Stanley in Times Square should know.
+7. `## New York`: 1–2 items on New York City: city politics and budget, Wall Street and Midtown business, transit, housing and rent, and anything a newcomer starting work in Midtown Manhattan should know.
 8. `## One question`: one thought-provoking question, one line.
 
 Skip any section (except 1 and 8) when nothing notable happened.
@@ -75,7 +75,7 @@ Body, in this order:
 7. `## New York`: `### City & Politics`, `### Business & Wall Street`, `### Living in NYC` (housing, rent, transit, neighborhoods, cost of living), each 1–2 items. Keep the whole section under 200 words.
 8. `## Connecting the dots`: 3 bullets linking stories across sections (e.g., Red Sea shipping → oil → inflation → yields).
 9. `## Questions to think about`: 3 questions with no single right answer.
-10. `## Interview angle`: 3 questions an interviewer might ask about this week, each with a 1–2 sentence model answer.
+10. `## On the desk`: 3 questions a bank treasury manager might ask an intern about this week's news (capital, liquidity, funding, rates, regulation), each with a 1–2 sentence model answer.
 11. `## The week ahead`: bullets of the dated data releases, Fed events, earnings, and political events.
 
 ## Files and publishing
