@@ -9,3 +9,4 @@ Changes are picked up by the next Daily Brief or Weekly Edition. No other setup 
 - BB (BlackBerry)
 - JPM (JPMorgan Chase)
 - GBCI (Glacier Bancorp)
+- MS (Morgan Stanley)
