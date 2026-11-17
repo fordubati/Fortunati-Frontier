@@ -17,7 +17,7 @@ The routine that writes each edition follows this guide exactly. The reader is R
 
 ## Links: every item is clickable
 
-Every item ends with a link to the best source article, formatted exactly `[Read more →](url)`. Use the article itself, not a homepage. Prefer original reporting (Reuters, AP, WSJ, Bloomberg, CNBC, FT, the Fed, company releases, Bozeman Daily Chronicle, Montana Free Press, Daily Montanan). One link per item; extra sources can go inline.
+Every item ends with a link to the best source article, formatted exactly `[Read more →](url)`. Use the article itself, not a homepage. Prefer original reporting (Reuters, AP, WSJ, Bloomberg, CNBC, FT, the Fed, company releases, Bozeman Daily Chronicle, Montana Free Press, Daily Montanan; for New York: THE CITY, Gothamist, Crain's New York Business, NYT, Politico New York, AP). One link per item; extra sources can go inline.
 
 ## Numbers and charts: data first
 
@@ -34,7 +34,7 @@ Every item ends with a link to the best source article, formatted exactly `[Read
 
 `watchlist.md` holds the reader's tickers, one per line (`- NVDA`, with an optional note). Read it every run and never edit it. Use `data.json` → `watchlist` for price moves. Skip malformed lines; flag unknown symbols as "unrecognized ticker: XYZ".
 
-## Daily Brief (Mon–Fri): 350–550 words, a 3-minute read
+## Daily Brief (Mon–Fri): 400–600 words, a 3-minute read
 
 Front matter:
 ```yaml
@@ -54,13 +54,14 @@ Body, in this order:
 4. `## World`: 1–3 items (Japan, UK, China, others).
 5. `## Politics & Geopolitics`: 1–3 items, each with a *Markets:* line.
 6. `## Montana & Bozeman`: 1–3 items.
-7. `## One question`: one thought-provoking question, one line.
+7. `## New York`: 1–2 items on New York City: city politics and budget, Wall Street and Midtown business, transit, housing and rent, and anything a new arrival working at Morgan Stanley in Times Square should know.
+8. `## One question`: one thought-provoking question, one line.
 
-Skip any section (except 1 and 7) when nothing notable happened.
+Skip any section (except 1 and 8) when nothing notable happened.
 
-**Research budget (Daily Brief).** Cover seven areas: (1) Fed, bonds & markets incl. commodities, (2) stocks & the watchlist, (3) housing, (4) trade & tariffs, (5) world: Japan, UK, China & conflicts, (6) U.S. politics, (7) Montana & Bozeman. Use at most **2 WebFetch calls per area (14 total)** and about 10 WebSearch calls overall; a search snippet plus one fetched article is enough for an item. Market numbers come from `data.json`, never from fetching. On Monday, cover news since Friday morning.
+**Research budget (Daily Brief).** Cover eight areas: (1) Fed, bonds & markets incl. commodities, (2) stocks & the watchlist, (3) housing, (4) trade & tariffs, (5) world: Japan, UK, China & conflicts, (6) U.S. politics, (7) Montana & Bozeman, (8) New York. Use at most **2 WebFetch calls per area (16 total)** and about 11 WebSearch calls overall; a search snippet plus one fetched article is enough for an item. Market numbers come from `data.json`, never from fetching. On Monday, cover news since Friday morning.
 
-## Weekly Edition (Sun): 1,200–1,800 words, an 8–10-minute read
+## Weekly Edition (Sun): 1,350–1,950 words, an 8–10-minute read
 
 Front matter as above, with `categories: [weekly]` and title `Weekly Edition: Week of <Monday's date>`.
 
@@ -71,10 +72,11 @@ Body, in this order:
 4. `## Key Economies`: `### Japan`, `### United Kingdom`, `### China`, each ≤ 80 words with a *Markets:* line and a link.
 5. `## Politics & Geopolitics`: `### Conflicts`, `### U.S. National Politics`, `### Global Affairs`, each 2–3 items.
 6. `## Montana & Bozeman`: `### Housing`, `### Business`, `### Local Politics`, each 1–3 items.
-7. `## Connecting the dots`: 3 bullets linking stories across sections (e.g., Red Sea shipping → oil → inflation → yields).
-8. `## Questions to think about`: 3 questions with no single right answer.
-9. `## Interview angle`: 3 questions an interviewer might ask about this week, each with a 1–2 sentence model answer.
-10. `## The week ahead`: bullets of the dated data releases, Fed events, earnings, and political events.
+7. `## New York`: `### City & Politics`, `### Business & Wall Street`, `### Living in NYC` (housing, rent, transit, neighborhoods, cost of living), each 1–2 items. Keep the whole section under 200 words.
+8. `## Connecting the dots`: 3 bullets linking stories across sections (e.g., Red Sea shipping → oil → inflation → yields).
+9. `## Questions to think about`: 3 questions with no single right answer.
+10. `## Interview angle`: 3 questions an interviewer might ask about this week, each with a 1–2 sentence model answer.
+11. `## The week ahead`: bullets of the dated data releases, Fed events, earnings, and political events.
 
 ## Files and publishing
 

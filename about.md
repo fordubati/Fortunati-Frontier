@@ -15,6 +15,7 @@ permalink: /about/
   2. **Key economies:** Japan, the United Kingdom, China
   3. **Politics & geopolitics:** conflicts, U.S. national politics, global affairs
   4. **Montana & Bozeman:** housing, local business, local politics
+  5. **New York:** city politics, business & Wall Street, living in NYC
 
 ## How it's written
 
